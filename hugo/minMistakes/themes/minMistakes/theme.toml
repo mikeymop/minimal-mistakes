@@ -4,18 +4,18 @@
 name = "MinMistakes"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-description = ""
+description = "This is a port of Michael Rose's minimal mistakes Jekyll theme."
 homepage = "http://example.com/"
-tags = []
+tags = ["blog"]
 features = []
 min_version = "0.38"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Michael DeFrancesco"
+  homepage = "http://defrances.co"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Minimal Mistakes"
+  homepage = "https://mmistakes.github.io/minimal-mistakes/"
+  repo = "https://github.com/mmistakes/minimal-mistakes"
