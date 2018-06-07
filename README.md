@@ -6,6 +6,7 @@ I am following a folder structure convention for [separating source](http://thec
 
 ### Jekyll Portion
 
+The `_sass` dir from jekyll will have to be maintained with node.js toolchaining. This will acompile the sass files to `/static/css/main.css` for when they are needed.
 
 ### Hugo Portion
 .
